@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+I am Mohammad Kreishan, I am an Electric Engineering
 🚀 About Me
 Here are some ideas to get you started:
 
