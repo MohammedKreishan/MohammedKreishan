@@ -24,10 +24,6 @@
 - [Link to E-Learning Platform GitHub Repository](https://github.com/C9-MohammedKreishan/MERAKI_Academy_Project_4/tree/main)
 
 
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/mohammad-kreishan/)
-
 
 ## 🌍 Fun Facts
 
